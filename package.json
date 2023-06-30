@@ -70,6 +70,7 @@
   },
   "dependencies": {
     "moment": "^2.10.2",
+    "tik-tok": "^0.1.1",
     "underscore": "^1.8.3"
   }
 }
